@@ -1,4 +1,4 @@
-# kajalshakya hosted link : https://delivery-app-qu7m.vercel.app/
+
 # food hostlink : https://delivery-app-lime.vercel.app/
 
 # 🍔 MERN Stack Food Delivery App 🚀
