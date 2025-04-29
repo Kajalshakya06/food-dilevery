@@ -7,7 +7,7 @@ A **full-stack food delivery web application** built using **MERN (MongoDB, Expr
 ## Features
 
  **User Authentication** (JWT-based Login & Signup)  
- **Browse Food Menu & Add to Cart** 🛒  
+ **Browse Food Menu & Add to Cart** 
  **Secure Payment Integration** (Stripe or Razorpay)  
  **Order Tracking System** 
  **Admins Dashboard** (Manage Orders, Users, and Restaurants)  
@@ -15,7 +15,6 @@ A **full-stack food delivery web application** built using **MERN (MongoDB, Expr
  **RESTful API with Express & MongoDB**  
  **Cloudinary Integration for Image Uploads**  
 
----
 
 ##  Tech Stack
 
