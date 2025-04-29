@@ -2,7 +2,7 @@
 
 # MERN Stack Food Delivery App 
 
-A **full-stack food delivery web application** built using **MERN (MongoDB, Express.js, React, Node.js)**. This app allows users to browse restaurants, add food to the cart, place orders, and track their deliveries in real time.
+A **full-stack food delivery web application** built using **MERN (MongoDB, Express.js, React, Node.js)**. This app allows users to browse restaurants, add food to the cart, place orders, and track their deliveries in real time. The app includes both customer and admin interfaces, allowing admins to manage menu items and view orders. The platform is built with React.js for the frontend, Node.js & Express.js for the backend, and MongoDB for database storage. It also includes user authentication, secure API routes, and responsive design for mobile and desktop use.
 
 ## Features
 
