@@ -1,4 +1,4 @@
-# food hostlink : https://delivery-app-lime.vercel.app/
+# Food Hostlink : https://delivery-app-lime.vercel.app/
 
 # MERN Stack Food Delivery App 
 
