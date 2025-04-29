@@ -6,11 +6,11 @@ A **full-stack food delivery web application** built using **MERN (MongoDB, Expr
 
 ## Features
 
- **kajalshakya Authentication** (JWT-based Login & Signup)  
+ **User Authentication** (JWT-based Login & Signup)  
  **Browse Food Menu & Add to Cart** 🛒  
  **Secure Payment Integration** (Stripe or Razorpay)  
- **Order Tracking System** 📦  
- **kajalshakya Dashboard** (Manage Orders, Users, and Restaurants)  
+ **Order Tracking System** 
+ **Admins Dashboard** (Manage Orders, Users, and Restaurants)  
  **Responsive UI** (Mobile & Desktop Friendly)  
  **RESTful API with Express & MongoDB**  
  **Cloudinary Integration for Image Uploads**  
@@ -34,9 +34,5 @@ A **full-stack food delivery web application** built using **MERN (MongoDB, Expr
 ### **Database**
 - MongoDB (NoSQL) with Mongoose ORM
 
-### **Other Tools**
-- Stripe / Razorpay for payments
-- Cloudinary for image uploads
-- dotenv for environment variables
 
 # output
