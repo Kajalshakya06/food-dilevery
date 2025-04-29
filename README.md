@@ -38,8 +38,10 @@ A **full-stack food delivery web application** built using **MERN (MongoDB, Expr
 # output
 ![image](https://github.com/user-attachments/assets/67087c15-c88c-4d76-b51b-9fc494b5cdd9)
 
-![image](https://github.com/user-attachments/assets/d75896af-d4a5-4da8-b374-c2078a057de1)
 
 ![image](https://github.com/user-attachments/assets/88f6e1e4-b34f-4df8-a64c-5b5e41628a61)
+
+
+![image](https://github.com/user-attachments/assets/d75896af-d4a5-4da8-b374-c2078a057de1)
 
 
