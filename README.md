@@ -36,16 +36,10 @@ A **full-stack food delivery web application** built using **MERN (MongoDB, Expr
 
 
 # output
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
-- Heading Section
+![image](https://github.com/user-attachments/assets/67087c15-c88c-4d76-b51b-9fc494b5cdd9)
 
-![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
-- Products Section
+![image](https://github.com/user-attachments/assets/d75896af-d4a5-4da8-b374-c2078a057de1)
 
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
-- Cart Page
-
-![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
-- Login Popup
+![image](https://github.com/user-attachments/assets/88f6e1e4-b34f-4df8-a64c-5b5e41628a61)
 
 
